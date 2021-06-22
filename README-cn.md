@@ -1,4 +1,4 @@
-# 对原作者的二进制编译安装改变方式变为支持kubeadm安装
+# 对原作者的二进制编译安装变为支持kubeadm安装
 # 使用Vagrant和VirtualBox在本地搭建分布式的Kubernetes集群和Istio Service Mesh
 
 [Setting up a Kubernetes cluster along with Istio service mesh locally with Vagrant and VirtualBox - English](README.md)
